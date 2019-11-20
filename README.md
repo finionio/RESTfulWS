@@ -78,7 +78,7 @@ api/v1/user/user username="user" password="pass" fullName="John Doe"
 
 ## Créditos
 Desarrollado por:
-- **2686599** David Elí Servín Peña
+- **2828960** Fernando Gutierrez Arevalo
 
 ## Licencia
 El código está disponible bajo la licencia **GNU GPL-3.0**. Consulte el archivo LICENSE en la raíz del proyecto para más información.
